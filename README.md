@@ -1,4 +1,4 @@
-![抱膝仰望繁星与流星的 chibi 沙耶 / Chibi Saya watching a meteor under a star-filled sky](assets/profile-banner-saya-starfield.webp)
+![坐在草地上仰望深蓝星空与流星的 chibi 沙耶 / Chibi Saya sitting in a meadow and watching a meteor in a deep-blue sky](assets/profile-banner-saya-navy-meadow.webp)
 
 <p align="center"><em>写本地工具，也分享 GFP 研究代码和数据分析。</em></p>
 
