@@ -1,4 +1,4 @@
-![拿着白花坐在林间的 chibi 沙耶 / Chibi Saya holding a flower in the forest](assets/profile-banner-saya-forest.webp)
+![坐在林间抱着白花的 chibi 沙耶 / Chibi Saya seated on a mossy log with a white flower](assets/profile-banner-saya-woodland.webp)
 
 <p align="center"><em>写本地工具，也分享 GFP 研究代码和数据分析。</em></p>
 
