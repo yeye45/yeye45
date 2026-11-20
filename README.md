@@ -1,4 +1,4 @@
-![米白水彩背景前的 chibi 沙耶 / Chibi Saya with a white flower against a mint watercolor backdrop](assets/profile-banner-saya-paper.webp)
+![抱膝仰望繁星与流星的 chibi 沙耶 / Chibi Saya watching a meteor under a star-filled sky](assets/profile-banner-saya-starfield.webp)
 
 <p align="center"><em>写本地工具，也分享 GFP 研究代码和数据分析。</em></p>
 
