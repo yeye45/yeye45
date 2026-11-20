@@ -1,4 +1,4 @@
-![暖光森林与薄荷色翅膀的精灵 / A mint-winged fairy in a sunlit forest](assets/profile-banner.webp)
+![暖光森林里的 chibi 沙耶 / Chibi Saya in a sunlit forest](assets/profile-banner-saya.webp)
 
 <p align="center"><em>写本地工具，也分享 GFP 研究代码和数据分析。</em></p>
 
